@@ -1,1 +1,3 @@
-console.log('Hello World');
+var Assingmenr1 = "Helllo world"
+
+console.log('Assingment1');
